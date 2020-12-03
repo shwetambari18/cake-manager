@@ -1,7 +1,7 @@
 # cakemanager
  Waracle Cake Manager
  
- Project Technologies Used:
+ Project Technologies Used/Changed:
  1. Spring Boot
  2. Spring JPA for data transactions.
  3. Swagger for one place information about REST endpoints used in project.
@@ -24,8 +24,8 @@
 	3. http://localhost:8282/rest/cakes/1 : Loads cake details having id 1.
 	   If not it gives CakeNotFoundException.
 	4. http://localhost:8282/rest/cakes/ : Downloads cakes.json file.
-	9. http://localhost:8282/rest/cakes : Cake can be added on this endpoint.
-	   Using Postman can test with given sample input with request type POST and body type JSON:
+	9. http://localhost:8282/rest/cakes : Cake can be created at this endpoint.
+	   Using Postman can test endpoint using given sample input with request type POST and body type JSON:
 		{
         "name": "Sample",
         "flavour": "Cheese",
