@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.waracle.cakemanager.CakemanagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.416 s - in com.waracle.cakemanager.CakemanagerApplicationTests

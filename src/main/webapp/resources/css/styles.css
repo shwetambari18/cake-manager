@@ -1,0 +1,27 @@
+div{
+	padding: 5px 0px 0px 0px;
+}
+
+label.error{
+	color:red;
+	font-style: italic;
+	float: none;
+	font-size: 14px;
+}
+
+.main-div{
+	 width:100%;
+	 text-align:center;
+	 align-content: center;
+	 justify-content: center;
+}
+
+.requiredfield
+{
+	color: red;
+}
+
+.requiredFieldLabel
+{
+	font-size: 12px;
+}
