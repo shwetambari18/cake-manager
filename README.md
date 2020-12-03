@@ -39,5 +39,5 @@ Running Project:
 GitHub Project Link: https://github.com/shwetambari18/cake-manager   
 Clone or Download project and unzip.	
 From command line enter command "mvn spring-boot:run" by locating project folder.	
-From browser hit link: 	http://localhost:8282/ 
+From browser hit link: 	http://localhost:8282/ (user : admin, password: pass)
  
