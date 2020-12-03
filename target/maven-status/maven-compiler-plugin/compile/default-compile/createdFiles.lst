@@ -1,10 +1,11 @@
 com\waracle\cakemanager\controller\CakeRestController.class
+com\waracle\cakemanager\SwaggerConfig.class
+com\waracle\cakemanager\CakemanagerApplication.class
+com\waracle\cakemanager\SecurityConfiguration.class
+com\waracle\cakemanager\exception\CakeAlreadyExistsException.class
+com\waracle\cakemanager\model\CakeEntity.class
+com\waracle\cakemanager\controller\CakeController.class
 com\waracle\cakemanager\service\CakeDaoService.class
 com\waracle\cakemanager\MvcConfiguration.class
 com\waracle\cakemanager\exception\CakeNotFoundException.class
-com\waracle\cakemanager\SwaggerConfig.class
-com\waracle\cakemanager\CakemanagerApplication.class
-com\waracle\cakemanager\exception\CakeAlreadyExistsException.class
 com\waracle\cakemanager\model\CakeRepository.class
-com\waracle\cakemanager\model\CakeEntity.class
-com\waracle\cakemanager\controller\CakeController.class

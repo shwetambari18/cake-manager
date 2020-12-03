@@ -3,6 +3,7 @@ C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\Swagger
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\MvcConfiguration.java
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\model\CakeEntity.java
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\service\CakeDaoService.java
+C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\SecurityConfiguration.java
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\exception\CakeAlreadyExistsException.java
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\model\CakeRepository.java
 C:\Training\SpringBoot\cakemanager\src\main\java\com\waracle\cakemanager\exception\CakeNotFoundException.java
